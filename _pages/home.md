@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am currently a third year Ph.D. student at Prof. Xifeng Yan's Group, in Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of Prof. Yu-Feng Li at LAMDA Group Led by Prof. Zhi-Hua Zhou, and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
+I am currently a third year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
 
 ## Publications
 

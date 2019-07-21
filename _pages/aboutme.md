@@ -4,7 +4,7 @@ title: "Hanwen Zha"
 permalink: /aboutme
 author_profile: true
 redirect_from:
-  - /aboutme
+  - /about
 ---
 
 {% include base_path %}
