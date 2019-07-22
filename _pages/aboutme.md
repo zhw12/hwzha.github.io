@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Hanwen Zha" 
-permalink: /aboutme
+permalink: /aboutme/
 author_profile: true
 redirect_from:
-  - /about
+  - /aboutme.html
 ---
 
 {% include base_path %}
