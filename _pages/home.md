@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am currently a third year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
+I am currently a fourth year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
 
 ## Publications
 
@@ -16,7 +16,14 @@ I am currently a third year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs
 
 <u>Hanwen Zha</u>, Wenhu Chen, Keqian Li and Xifeng Yan
 
-Proceedings of KDD 2019, Alaska, USA (Research Track, Long Oral Paper) [[pdf]](#) [[code]](https://github.com/zhw12/AlgMap)
+Proceedings of KDD 2019, Alaska, USA (Research Track, Long Oral Paper) [[pdf]](https://www.kdd.org/kdd2019/accepted-papers/view/mining-algorithm-roadmap-in-scientific-publications) [[code]](https://github.com/zhw12/AlgMap)
+
+
+**HierCon: Hierarchical Organization of Technical Documents Based on Concepts**
+
+Keqian Li, Shiyang Li, Semih Yavuz, <u>Hanwen Zha</u>, Yu Su and Xifeng Yan
+
+Proceedings of ICDM 2019, Beijing, China (Long Paper) [[pdf]](https://sites.cs.ucsb.edu/~klee/papers/ICDM19_HierCon.pdf)
 
 
 **Global Textual Relation Embedding for Relational Understanding**
