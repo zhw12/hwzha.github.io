@@ -30,17 +30,24 @@ Education
 * Overall GPA: 90/100, Major GPA: 92/100
 * Member of Kuang Yaming Honor school, an elite program at NJU which aims to nurture scientists in fundamental disciplines.
 
-Research Experience
+Experience
 ======
+* University of California, Santa Barbara
+  * Research Assitant, Jun. 2017 - Present
+  * Working on Knowledge Base, Relation Extraction and Text Mining
+  * Supervised by Prof. Xifeng Yan
+
+* Facebook
+  * Research Intern, Jun. 2020 - Sep. 2020
+  * Working on Question Answering Over Dialogue
+  * Supervised by Xi Chen \& Kushal Lakhotia
+
 * Wework
   * Research Intern, Jun. 2019 - Present
   * Working on Augmented Floor Plan Design Generation
   * Supervised by Shengqi Yang
 
-* University of California, Santa Barbara
-  * Research Assitant, Jun. 2017 - Present
-  * Working on Knowledge Base, Relation Extraction and Text Mining
-  * Supervised by Prof. Xifeng Yan
+
 
 * Nanjing University
   * Research Assitant, Jun. 2014 - Jun. 2016

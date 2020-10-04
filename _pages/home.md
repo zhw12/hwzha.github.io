@@ -8,15 +8,27 @@ redirect_from:
   - /home.html
 ---
 
-I am currently a fourth year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
+I am currently a fifth year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
 
 ## Publications
+
+**HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data**
+
+Wenhu Chen, <u>Hanwen Zha</u>, Zhiyu Chen, Wenhan Xiong, Hong Wang and William Wang
+
+Proceedings of Findings of EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.07347) [[code]](https://github.com/wenhuchen/HybridQA) [[codalab]](https://competitions.codalab.org/competitions/24420) [[website]](https://hybridqa.github.io/)
+
+**Logic2Text: High-Fidelity Natural Language Generation from Logical Forms**
+
+Zhiyu Chen, Wenhu Chen, <u>Hanwen Zha</u>, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan, William Yang Wang
+
+Proceedings of Findings of EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14579) [[code and data]](https://github.com/czyssrs/Logic2Text)
 
 **Mining Algorithm Roadmap in Scientific Publications**
 
 <u>Hanwen Zha</u>, Wenhu Chen, Keqian Li and Xifeng Yan
 
-Proceedings of KDD 2019, Alaska, USA (Research Track, Long Oral Paper) [[pdf]](https://www.kdd.org/kdd2019/accepted-papers/view/mining-algorithm-roadmap-in-scientific-publications) [[code]](https://github.com/zhw12/AlgMap)
+Proceedings of KDD 2019, Alaska, USA (Research Track, Long Oral Paper) [[pdf]](https://www.kdd.org/kdd2019/accepted-papers/view/mining-algorithm-roadmap-in-scientific-publications) [[code]](https://github.com/zhw12/AlgMap) [[website]](http://fts.cs.ucsb.edu/roadmap)
 
 
 **HierCon: Hierarchical Organization of Technical Documents Based on Concepts**
@@ -50,7 +62,7 @@ Proceedings of SDM 2018, San Diego, California, USA (Long Paper) [[pdf]](https:/
 
 <u>Hanwen Zha</u>, Jiaming Shen, Keqian Li, Warren Greiff, Michelle T. Vanni, Jiawei Han, Xifeng Yan
 
-Proceedings of KDD 2018, London, UK (Demo Paper) [[pdf]](https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1813.pdf)
+Proceedings of KDD 2018, London, UK (Demo Paper) [[pdf]](https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1813.pdf) [[website]](http://fts.cs.ucsb.edu)
 
 **PoQaa: Text Mining and Knowledge Sharing for Scientific Publications**
 
