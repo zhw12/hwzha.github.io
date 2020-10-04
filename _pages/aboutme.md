@@ -40,14 +40,12 @@ Experience
 * Facebook
   * Research Intern, Jun. 2020 - Sep. 2020
   * Working on Question Answering Over Dialogue
-  * Supervised by Xi Chen \& Kushal Lakhotia
+  * Supervised by Xi Chen & Kushal Lakhotia
 
 * Wework
   * Research Intern, Jun. 2019 - Present
   * Working on Augmented Floor Plan Design Generation
   * Supervised by Shengqi Yang
-
-
 
 * Nanjing University
   * Research Assitant, Jun. 2014 - Jun. 2016
