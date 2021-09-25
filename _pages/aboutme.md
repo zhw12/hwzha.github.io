@@ -13,7 +13,7 @@ redirect_from:
 
 My Research
 ======
-My research lies between natural language processing and data mining. Particularly, I focus on mining structured knowledge from unstructured text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications. I am interested in developing models that learn in weakly-supervised settings, where data are noisy and incompletely-labeled.
+My research lies between natural language processing and data mining. Particularly, I focus on extracting and inferring knowledge from unstructed text and structured graph, where such knowledge can facilitate intelligent analysis and applications. I am interested in developing label efficient, easy-to-digest and user friendly models.
 
 
 Education
@@ -33,7 +33,7 @@ Education
 Experience
 ======
 * University of California, Santa Barbara
-  * Research Assitant, Jun. 2017 - Present
+  * Research Assitant, Jun. 2017 - Sep. 2021
   * Working on Knowledge Base, Relation Extraction and Text Mining
   * Supervised by Prof. Xifeng Yan
 
@@ -43,7 +43,7 @@ Experience
   * Supervised by Xi Chen & Kushal Lakhotia
 
 * Wework
-  * Research Intern, Jun. 2019 - Present
+  * Research Intern, Jun. 2019 - Sep. 2019
   * Working on Augmented Floor Plan Design Generation
   * Supervised by Shengqi Yang
 
