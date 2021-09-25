@@ -13,14 +13,14 @@ redirect_from:
 
 My Research
 ======
-My research lies between data mining and natural language processing. Particularly, I focus on mining structured knowledge from unstructured text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications. I am interested in developing models that learn in weakly-supervised settings, where data are noisy and incompletely-labeled.
+My research lies between natural language processing and data mining. Particularly, I focus on mining structured knowledge from unstructured text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications. I am interested in developing models that learn in weakly-supervised settings, where data are noisy and incompletely-labeled.
 
 
 Education
 ======
 **University of California, Santa Barbara (UCSB)**
 
-* Ph.D. Candidate in Computer Science, 2016 - 2021 (expected)
+* Ph.D. Candidate in Computer Science, 2016 - 2021
 * Overall GPA: 4.0/4.0
 
 

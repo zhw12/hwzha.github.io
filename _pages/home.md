@@ -8,9 +8,15 @@ redirect_from:
   - /home.html
 ---
 
-I am currently a fifth year Ph.D. student in [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/)'s Group, at Department of Computer Science, University of California, Santa Barbara. Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between data mining and natural language processing. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
+I am currently a Research Scientist at Facebook. I obtained my Ph.D. degree from the Department of Computer Science, University of California, Santa Barbara under the supervision of [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). Prior to UCSB, I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between natural language processing and data mining. Particularly, I focus on mining structed knowledge from unstructed text and constructing knowledge graph, where such knowledge can facilitate intelligent analysis and applications.
 
 ## Publications
+
+**BERTRL: Inductive Relation Prediction by BERT**
+
+<u>Hanwen Zha</u>, Zhiyu Chen, Xifeng Yan
+
+Arxiv Preprint [[pdf]](https://arxiv.org/abs/2103.07102) [[code]](https://github.com/zhw12/BERTRL)
 
 **HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data**
 
