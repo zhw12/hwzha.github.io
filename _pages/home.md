@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am currently a Research Scientist at Facebook. I obtained my Ph.D. degree from the Department of Computer Science, University of California, Santa Barbara advised by [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). I received my bachelor degree from Nanjing University, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between natural language processing and data mining. Particularly, I focus on extracting and inferring knowledge from unstructed text and structured graph, where such knowledge can facilitate intelligent analysis and applications.
+I am currently a Research Scientist at Facebook. I obtained my Ph.D. degree from the Department of Computer Science, University of California, Santa Barbara in Sep, 2021, advised by [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). I received my bachelor degree from Nanjing University in 2016, under the supervision of [Prof. Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) at LAMDA Group Led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), and I was a member of Kuang Yaming Honor School. My research lies between natural language processing and data mining, with a particular focus on knowledge extraction and reasoning.
 
 ## Publications
 
@@ -16,7 +16,7 @@ I am currently a Research Scientist at Facebook. I obtained my Ph.D. degree from
 
 <u>Hanwen Zha</u>, Zhiyu Chen, Xifeng Yan
 
-Arxiv Preprint [[pdf]](https://arxiv.org/abs/2103.07102) [[code]](https://github.com/zhw12/BERTRL)
+Proceedings of AAAI 2022 [[pdf]](https://arxiv.org/abs/2103.07102) [[code]](https://github.com/zhw12/BERTRL)
 
 **HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data**
 
@@ -82,3 +82,10 @@ Proceedings of KDD 2018, London, UK (Demo Paper) [[pdf]](https://sites.cs.ucsb.e
 Yu-Feng Li, <u>Han-Wen Zha</u>, Zhi-Hua Zhou
 
 Proceedings of AAAI 2017, San Francisco, California, USA (Long Oral Paper) [[pdf]](http://202.119.32.195/cache/10/03/lamda.nju.edu.cn/cd73868576aa7ca4d08cabc8feb68186/aaai17-safer.pdf) [[code]](http://lamda.nju.edu.cn/code_SAFER.ashx) [[supp]](http://202.119.32.195/cache/11/03/lamda.nju.edu.cn/8d18d6a8168ceb413b9b6acd3fcbb8ad/aaai17-safer-supplemental-materials.pdf)
+
+**Learning Safe Prediction for Semi-Supervised Regression**
+
+## Services
+Program Committee/reviewer: 
+
+SDM' 20, ECML-PKDD' 20, NAACL' 21, EMNLP' 21, ACL' 21, AAAI' 22
