@@ -83,8 +83,6 @@ Yu-Feng Li, <u>Han-Wen Zha</u>, Zhi-Hua Zhou
 
 Proceedings of AAAI 2017, San Francisco, California, USA (Long Oral Paper) [[pdf]](http://202.119.32.195/cache/10/03/lamda.nju.edu.cn/cd73868576aa7ca4d08cabc8feb68186/aaai17-safer.pdf) [[code]](http://lamda.nju.edu.cn/code_SAFER.ashx) [[supp]](http://202.119.32.195/cache/11/03/lamda.nju.edu.cn/8d18d6a8168ceb413b9b6acd3fcbb8ad/aaai17-safer-supplemental-materials.pdf)
 
-**Learning Safe Prediction for Semi-Supervised Regression**
-
 ## Services
 Program Committee/reviewer: 
 
